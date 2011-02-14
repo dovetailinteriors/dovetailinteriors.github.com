@@ -1,0 +1,10 @@
+vti_encoding:SR|utf8-nl
+vti_author:SR|LIVEWEB2\\dovetailinteriors
+vti_modifiedby:SR|LIVEWEB2\\dovetailinteriors
+vti_timelastmodified:TR|31 Mar 2008 13:02:13 -0000
+vti_timecreated:TR|31 Mar 2008 13:02:13 -0000
+vti_lineageid:SR|{62FC3B5D-1C63-4028-AE9C-5B6DD7407F61}
+vti_cacheddtm:TX|31 Mar 2008 13:02:13 -0000
+vti_filesize:IR|36
+vti_extenderversion:SR|5.0.2.6790
+vti_backlinkinfo:VX|
